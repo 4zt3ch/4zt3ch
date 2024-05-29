@@ -6,6 +6,6 @@
 - 
 - 💞️ I’m looking to collaborate on ... cybersecurity with python projects.
 - 
-- 📫 How to reach me ... Discord = 4zt3ch
+- 📫 How to reach me ... Discord = azt3ch
 
 
