@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @4zt3ch
+- 👋 Hey
 - 
-- 👀 I’m interested in ... Capture the Flags, RE, Malware Analysis, Cryptography
+- 👀 I’m interested in ... Capture the Flags, RE, Malware Analysis, Cryptography, Programming
 - 
-- 🌱 I’m currently learning ... python and cybersecurity engineering.
+- 🌱 I’m currently learning ... python and assembly.
 - 
 - 💞️ I’m looking to collaborate on ... cybersecurity with python projects.
 - 
-- 📫 How to reach me ... Discord = azt3ch
+- 📫 How to reach me ... Discord @melmoths_laboratory
 
 
